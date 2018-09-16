@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "098cb909-81e3-4eb8-bbf9-ceedb1bd1463",
+            "Value": {
+                "id": "cebbb2f5-9105-4594-8153-ffde1172ab10",
+                "resourcePath": "sprites\\happy_face\\happy_face.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "098db194-9454-4b85-99b6-58a6437209a2",
             "Value": {
                 "id": "3c0974a4-e245-4fc0-ab14-ec79e08e4631",
