@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "18342e9e-b374-4176-ae76-e3e2de200681",
+            "Value": {
+                "id": "2bcebd60-01ac-480b-b94e-1ac190669961",
+                "resourcePath": "sprites\\spr_tile_cottage\\spr_tile_cottage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1958b4ea-432b-408f-baf6-40a65196699a",
             "Value": {
                 "id": "3d17399b-2806-4f2d-a2ac-e48240486902",
@@ -79,11 +87,27 @@
             }
         },
         {
+            "Key": "36f62a3c-e17f-496c-bc37-09fdca221706",
+            "Value": {
+                "id": "a5de5e09-e33e-499c-b45e-9c75cf30ee7a",
+                "resourcePath": "tilesets\\tile_cottage\\tile_cottage.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "49407024-c846-45a9-b189-a05df20dba4b",
             "Value": {
                 "id": "08ea4dbf-3f85-47de-92d1-4187f02194b3",
                 "resourcePath": "views\\49407024-c846-45a9-b189-a05df20dba4b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "49acf4c8-7193-4245-95ca-9940ee09a849",
+            "Value": {
+                "id": "28738df6-9e69-4cf7-ac3b-22389a225ecd",
+                "resourcePath": "sprites\\spr_tile_terrain\\spr_tile_terrain.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -180,6 +204,14 @@
                 "id": "d322be69-ff44-402a-a0b6-c7bd743123bf",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "e453e63f-9dc0-4554-8cd6-1a7eb3b7fe43",
+            "Value": {
+                "id": "9380f6fe-8d30-492e-a6e2-32e66db2d59d",
+                "resourcePath": "tilesets\\tile_terrain\\tile_terrain.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
