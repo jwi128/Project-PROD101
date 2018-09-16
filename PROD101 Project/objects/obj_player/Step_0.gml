@@ -43,6 +43,10 @@ if (moveY!= 0){
 	}
 }
 
+var trans_id = instance_place(x, y, obj_transistion);
+if(trans_id != noone) {
+	room_goto(trans_id.room_id)
+}
 //APPLYING MOVEMENT
 
 x += moveX;

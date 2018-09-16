@@ -2,7 +2,7 @@
     "id": "e95354b5-f638-4c96-976c-d5ebb3e1335c",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite01",
+    "name": "collisions",
     "For3D": false,
     "HTile": false,
     "VTile": false,
